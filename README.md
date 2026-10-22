@@ -14,6 +14,13 @@
 - [把数学推理做成动画：从割线到切线的连续表达](https://huangshengzebluesky.github.io/projects/math-animation.html) — 连接脚本、声音与几何状态，附可拖动的数学演示。
 - [失败一定属于模型吗？从四个案例审计评测系统](https://huangshengzebluesky.github.io/projects/benchmark-audit.html) — 从首次决定性分歧到单变量反事实。
 
+### 工程实践笔记
+
+- [业务沙箱的工具接口、状态事务与可回放实验](https://huangshengzebluesky.github.io/projects/finance-sandbox.html)
+- [Agent 的通过率为什么会骗人？三层测评与轨迹校准](https://huangshengzebluesky.github.io/projects/evaluation.html)
+- [一道题怎样被可靠地修好？内容版本与反馈闭环](https://huangshengzebluesky.github.io/projects/educate-flywheel.html)
+- [本地会话工作台的增量采集与摘要写回](https://huangshengzebluesky.github.io/projects/echo.html)
+
 ### 持续探索
 
 **评测与诊断**：任务协议、用户模拟、真实状态与失败归因。  
