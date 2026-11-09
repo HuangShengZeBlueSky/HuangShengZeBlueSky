@@ -1,10 +1,12 @@
 # 黄胜泽 · Shengze Huang
 
-让智能体学会把事做成，也把它怎样学会的讲清楚。
+AI 能回答，怎样才能把事做成？
 
 **[阅读我的研究与实践 →](https://huangshengzebluesky.github.io/)** · [论文研究](https://huangshengzebluesky.github.io/research.html) · [项目实践](https://huangshengzebluesky.github.io/projects.html) · [技术笔记](https://huangshengzebluesky.github.io/writing.html)
 
-我关注智能体的训练、运行机制与评测，也做一些帮助学习、研究和专注工作的产品。这里从具体问题进入方法，记录做过什么、结果说明什么，以及过程中形成的思考。
+客户说“把周五预约改到周六”，需要的是真正查清情况、执行操作并核对结果。我研究让 AI 把这些环节连接起来，也做一些帮助学习、研究和专注工作的产品。
+
+不熟悉这个领域，可以先看 **[一个改约例子，以及三种改进方法](https://huangshengzebluesky.github.io/#one-task)**。文章从具体问题一步步讲到方法，名词和完整技术图留在后面展开。
 
 ## 论文背后的问题
 
